@@ -1,0 +1,4 @@
+#Sat Mar 24 01:46:34 IST 2018
+base.0=C\:\\Users\\Lenovo\\Desktop\\appppkk\\speech to text\\SpeechToText\\Translator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\25
+path.0=classes.dex
+renamed.0=classes.dex
